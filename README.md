@@ -10,5 +10,5 @@
 
 ## ✨一键脚本
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/elesssss/mtproxy/main/mtproxy.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/LIUKE920715/mtproxy/main/mtproxy.sh)
 ```
